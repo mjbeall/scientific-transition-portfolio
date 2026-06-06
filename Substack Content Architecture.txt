@@ -1,0 +1,36 @@
+Content Architecture
+
+Lane 1: Core Essays (1–2x/month)
+    Title pattern:
+     - “Emergence in the Brain: Why Consciousness Might Be a Systems Property”
+     - “What Genomics Reveals About Information Storage in Life”
+     - “Cosmology as Information Architecture”
+
+    Purpose:
+     - synthesis
+     - long-form thinking
+     - identity of the publication
+
+Lane 2: Field Notes (weekly)
+    Short posts:
+     - what you learned
+     - dataset exploration
+     - paper summaries
+     - reflections
+
+    Purpose:
+     - momentum
+     - audience touchpoints
+     - learning transparency
+
+Lane 3: Experiments (monthly)
+    Hands-on work:
+     - small analysis project
+     - dataset exploration
+     - AI model exploration
+     - visualization
+
+    Purpose:
+     - portfolio building
+     - credibility
+     - LinkedIn amplification
