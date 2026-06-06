@@ -1,0 +1,34 @@
+Monthly Progress Dashboard
+
+Track five scores (1-10):
+     Metric	           Question
+     ------            --------
+     Energy	           Did this work energize me?
+     Curiosity     	   Did I voluntarily continue learning?
+     Flow	             Did I lose track of time?
+     Marketability	   Could this lead to employment?
+     Impact	           Does this matter to humanity?
+
+After each project, score it.
+Patterns will emerge.
+
+
+
+
+Leading Indicators of Success
+
+Green flags:
+ - You read papers without being told to.
+ - You stay up late because you're interested.
+ - You start connecting ideas across disciplines.
+ - LinkedIn engagement grows.
+ - Scientists begin responding to your posts.
+ - You find yourself discussing the topic at dinner.
+ - Leading Indicators That a Domain Is Wrong
+
+Warning signs:
+ - You only engage when scheduled.
+ - You dread opening the dataset.
+ - You consume content but never build anything.
+ - You can't think of project ideas.
+ - Three months later you're relieved to move on.
