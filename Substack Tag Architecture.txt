@@ -1,0 +1,90 @@
+Standardized Tag Architecture
+
+Every post should use exactly one tag from each category.
+
+Content Type (Required)
+Choose one:
+ - Start Here
+ - Exploration
+ - Field Note
+ - Experiment
+ - Monthly Review
+ - Dashboard
+
+Domain (Required)
+Choose one:
+ - Neuroscience
+ - Genomics
+ - Astronomy
+ - AI-ML
+ - Cross-Domain
+
+Experiment Phase (Optional)
+Use when relevant:
+ - Phase-0 Infrastructure
+ - Phase-1 AI-ML Foundation
+ - Phase-2 Neuroscience
+ - Phase-3 Genomics
+ - Phase-4 Astronomy
+ - Phase-5 Synthesis
+
+Project Status (Experiments Only)
+Choose one:
+ - Planning
+ - In Progress
+ - Complete
+
+Example Tagging
+Start Here Post
+Tags:
+    Start Here
+    Cross-Domain
+    Phase-0 Infrastructure
+
+"The 12-Month Experiment"
+Tags:
+    Exploration
+    Cross-Domain
+    Phase-0 Infrastructure
+
+"Building My Experiment Infrastructure"
+Tags:
+    Experiment
+    Cross-Domain
+    Phase-0 Infrastructure
+    In Progress
+
+"My First Encounter with the Allen Brain Atlas"
+Tags:
+    Field Note
+    Neuroscience
+    Phase-2 Neuroscience
+
+"Building a Brain Cell Explorer"
+Tags:
+    Experiment
+    Neuroscience
+    Phase-2 Neuroscience
+    Complete
+
+Monthly Reflection Post
+Tags:
+    Monthly Review
+    Cross-Domain
+    Current Phase
+
+
+Publication Navigation
+Readers should always be able to understand where they are in the journey.
+
+Start Here
+↓
+Career Discovery Dashboard
+↓
+Explorations (what I'm learning)
+↓
+Field Notes (what I'm noticing)
+↓
+Experiments (what I'm building)
+↓
+Monthly Reviews (what I'm learning about myself)
