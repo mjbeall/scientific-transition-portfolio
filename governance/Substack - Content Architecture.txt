@@ -1,0 +1,87 @@
+Content Architecture
+
+To prevent "rail drift," every piece of content should fit into one of three lanes.
+
+Lane 1: Explorations (Long-Form Articles)
+    Frequency: 1–2 per month
+
+    Purpose:
+        Deep learning and synthesis
+        Exploring a field, concept, dataset, or career path
+        Building domain understanding
+        Establishing intellectual direction
+
+    Examples:
+        My First Encounter with Computational Neuroscience
+        What Genomics Actually Is (And Isn't)
+        Why Astronomers Think in Datasets
+        AI for Scientific Discovery: An Introduction
+
+    Title pattern:
+     - “Emergence in the Brain: Why Consciousness Might Be a Systems Property”
+     - “What Genomics Reveals About Information Storage in Life”
+     - “Cosmology as Information Architecture”
+
+    Typical Length:
+        1,000–2,500 words
+
+    Primary Tags:
+        Exploration
+        Neuroscience / Genomics / Astronomy / AI-ML
+
+Lane 2: Field Notes
+    Frequency: Weekly
+
+    Purpose:
+        Capture learning in real time
+        Maintain publishing consistency
+        Share observations, insights, questions, and surprises
+        Demonstrate the learning process
+
+    Examples:
+        What Surprised Me About the Allen Brain Atlas
+        Three Things I Learned This Week About Genomics
+        Notes from a Paper on Consciousness
+        Questions I Can't Answer Yet
+
+    Short posts:
+     - what you learned
+     - dataset exploration
+     - paper summaries
+     - reflections
+
+    Typical Length:
+        200–800 words
+
+    Primary Tags:
+        Field Note
+        Relevant Domain Tag
+
+Lane 3: Experiments (Portfolio Work)
+    Frequency: Monthly
+
+    Purpose:
+        Build tangible evidence of capability
+        Create portfolio artifacts
+        Practice scientific computing and analysis
+        Demonstrate learning through execution
+
+    Examples:
+        Building a Brain Cell Explorer
+        My First Gene Network Visualization
+        Exploring NASA Exoplanet Data with Python
+        Creating a Scientific Discovery Dashboard
+
+    Hands-on work:
+     - small analysis project
+     - dataset exploration
+     - AI model exploration
+     - visualization
+
+    Typical Length:
+        800–1,500 words
+
+    Primary Tags:
+        Experiment
+        Relevant Domain Tag
+        Project
